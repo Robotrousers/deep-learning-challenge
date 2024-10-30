@@ -16,19 +16,13 @@ Python: Jupyter Notebook, pandas
 ### This repo contains the following files:
 ```yaml
     root\
-    - report-template.md - Report template for holding Analysis
+    - starter_code.ipynb - the Jupyter Notebook file with data work
     - README.md
-
-    Credit_Risk\
-    - credit_risk_classification.ipynb - the Jupyter Notebook file with data work
-
-        Resources\
-        - lending_data.csv - data set
 ```
 
 
 
 ### Resources, Cites and API
-- *Class_Material 20-1-3* - logistic_regression_solution
-- *Class_Material 20-1-4* - predicting_diabetes_solution
+- *Class_Material 21-X-X* - 
+- *Class_Material 21-X-X* - 
 
