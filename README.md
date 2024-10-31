@@ -23,6 +23,6 @@ Python: Jupyter Notebook, pandas
 
 
 ### Resources, Cites and API
-- *Class_Material 21-X-X* - 
+- *Class_Material 21-2-6* - getting_real_solution
 - *Class_Material 21-X-X* - 
 
