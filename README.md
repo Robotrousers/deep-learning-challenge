@@ -18,7 +18,7 @@ Python: Jupyter Notebook, pandas
     root\
     - starter_code.ipynb: the Jupyter Notebook file with data work
     - AlphabetSoupCharity.h5: export of keras model
-    - README.md:
+    - README.md: Provides an overview of the project structure and its contents
 ```
 
 
