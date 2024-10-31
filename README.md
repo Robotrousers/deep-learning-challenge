@@ -24,5 +24,5 @@ Python: Jupyter Notebook, pandas
 
 ### Resources, Cites and API
 - *Class_Material 21-2-6* - getting_real_solution
-- *Class_Material 21-X-X* - 
-
+- *Class_Material 20-2-8* - predicting_bank_customers_solution
+- *Class_Material 21-2-7* - detecting_myopia_solution
