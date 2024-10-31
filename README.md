@@ -16,8 +16,9 @@ Python: Jupyter Notebook, pandas
 ### This repo contains the following files:
 ```yaml
     root\
-    - starter_code.ipynb - the Jupyter Notebook file with data work
-    - README.md
+    - starter_code.ipynb: the Jupyter Notebook file with data work
+    - AlphabetSoupCharity.h5: export of keras model
+    - README.md:
 ```
 
 
