@@ -20,7 +20,15 @@ Python: Jupyter Notebook, pandas
     - AlphabetSoupCharity.ipynb: the Jupyter Notebook file with initial coding work
     - AlphabetSoupCharity.h5: export of the original keras model
     - AAlphabetSoupCharity_Optimization.ipynb: the Jupyter Notebook file with optimization coding work
+    - AlphabetSoupCharity_Optimization.h5: export of the keras model with optimization coding work
     - README.md: Provides an overview of the project structure and its contents
+    - Neural Network Model Report.md: Neural Network Model Report
+
+    Images\
+    - deep-learning01.png - deep-learning04.png: screenshots used in the Neural Network Model Report
+
+    Resources\
+    - charity_data.csv - "physical" backup for the dataset
 ```
 
 
