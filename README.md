@@ -3,9 +3,10 @@
 #### Using your knowledge of Pandas and scikit-learn’s StandardScaler(), you’ll need to preprocess the dataset. This step prepares you for Step 2, where you'll compile, train, and evaluate the neural network model.
 
 ### Challenge Guidelines:
-- XXXXX
-- XXXXX
-- XXXXX
+- Preprocess the Data
+- Compile, Train, and Evaluate the Model
+- Optimize the Model
+- Write a Report on the Neural Network Model
 
 ### Proposed Technologies:
 ```yaml
